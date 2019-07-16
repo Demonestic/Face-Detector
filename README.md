@@ -8,7 +8,7 @@ Install:
 
 * git clone https://github.com/MaenAlamin/Face-Detector
 
-* cd vuejs-portfolio
+* cd Face-Detector
 
 * npm install
 
