@@ -21,4 +21,4 @@ Install:
 How to use:
 ---
 
-simply put the image URL u want to detect the faces int the text box and press Detect
+Simply put the image URL you want to detect the faces in the text box and press Detect
