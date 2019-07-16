@@ -2,7 +2,7 @@
 # Face-Detector
 face detector app using react and clarifai API
 
----
+
 Install:
 ---
 
@@ -14,9 +14,9 @@ Install:
 
 * npm install clarifai
 
-npm start
+* npm start
 
----
+
 
 How to use:
 ---
